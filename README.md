@@ -1,8 +1,8 @@
 # BlackFriday
- Description:
+# Description:
 This project aims to build a machine learning model to predict customer purchase amounts during Black Friday sales, based on historical sales data. The model helps businesses understand and forecast buying behavior, which can be crucial for inventory management, personalized marketing, and improving the shopping experience.
 
-Dataset Description:
+# Dataset Description:
 The dataset includes records of transactions made during Black Friday sales, with each row representing a customer’s purchase of a specific product. Key fields include:
 
 User_ID: A unique identifier for each customer.
