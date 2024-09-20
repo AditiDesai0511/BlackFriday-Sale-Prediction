@@ -1,4 +1,4 @@
-# BlackFriday
+# BlackFriday Sale Prediction
 # Description:
 This project aims to build a machine learning model to predict customer purchase amounts during Black Friday sales, based on historical sales data. The model helps businesses understand and forecast buying behavior, which can be crucial for inventory management, personalized marketing, and improving the shopping experience.
 
